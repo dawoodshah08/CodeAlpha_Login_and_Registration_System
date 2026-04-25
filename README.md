@@ -23,20 +23,20 @@
 - Maximum **3 password attempts**
 - Access denied after failed attempts
 
-📷 Program Flow
+### 📷 Program Flow
 Welcome Screen
-Main Menu:
-Register New Account
-Login Existing Account
-Exit
+- Main Menu:
+- Register New Account
+- Login Existing Account
+- Exit
 Register:
 Enter username
-Enter password
-Confirm password
+- Enter password
+- Confirm password
 Login:
-Enter username
-Enter password
-Access granted or denied
+- Enter username
+- Enter password
+- Access granted or denied
 📚 Concepts Practiced
 
 This project helped strengthen my skills in:
