@@ -1,14 +1,14 @@
 # CodeAlpha_Login_and_Registration_System
-## ✨ Features
+## Features
 
-### 👤 User Registration
+### User Registration
 - Create a new account with a unique username
 - Username validation:
   - Minimum 3 characters
   - Maximum 20 characters
   - Letters and numbers only
 
-### 🔒 Secure Password System
+### Secure Password System
 - Hidden password input using `*`
 - Password confirmation during registration
 - Password validation:
@@ -17,13 +17,13 @@
   - One lowercase letter
   - One number
 
-### 🔑 Login System
+### Login System
 - Login with registered credentials
 - Case-insensitive username matching
 - Maximum **3 password attempts**
 - Access denied after failed attempts
 
-### 📷 Program Flow
+### Program Flow
 Welcome Screen
 - Main Menu:
 - Register New Account
@@ -37,8 +37,7 @@ Login:
 - Enter username
 - Enter password
 - Access granted or denied
-📚 Concepts Practiced
-
+### Concepts Practiced
 This project helped strengthen my skills in:
 
 Object-Oriented Programming
@@ -49,26 +48,22 @@ File Handling
 Data Security Basics
 Console UI Design
 Problem Solving
-🚀 Internship Task
+###  Internship Task
+Completed as Task 2 during my internship at CodeAlpha
 
-✅ Completed as Task 2 during my internship at CodeAlpha
-
-🙌 Acknowledgment
-
+### Acknowledgment
 Special thanks to CodeAlpha for providing practical tasks that helped improve my programming and development skills.
 
-👨‍💻 Developer
-
+### Developer
 Dawood Shah
 BS Computer Science Student at FAST NUCES
 Passionate about Programming, AI & Software Development
 
-📌 Note
-
+### Note
 This project is currently optimized for Windows OS because it uses:
 
 windows.h
 conio.h
-⭐ If you like this project
 
-Give it a ⭐ on GitHub and support my journey.
+### If you like this project
+### Give it a ⭐ on GitHub and support my journey.
